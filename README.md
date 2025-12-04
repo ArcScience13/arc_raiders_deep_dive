@@ -1,5 +1,3 @@
-<img width="1536" height="1024" alt="arc raiders science logo" src="https://github.com/user-attachments/assets/d8be07c1-d0da-4297-90ee-7cb833d5ef4b" />
-
 # Arc Raiders Loot Deep Dive
 
 Google Sheets Link : [Arc Raiders Item Tracker](https://docs.google.com/spreadsheets/d/1Unvls4dH4esEcWdbbjQcm2Ix8XGi0h4aEYgbZdMmKz8/edit?usp=sharing)
@@ -23,7 +21,7 @@ Game : [Arc Raiders](https://store.steampowered.com/app/1808500/ARC_Raiders/)
   - coding language used for data analytics
 
 ## Contact Information
-- 
+- arcscience13@proton.me
   - use this email to send me suggestions, fixes, complaints or anything else useful to the project
 
 # Purpose Of This Repository and Data Collection
