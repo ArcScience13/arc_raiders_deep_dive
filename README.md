@@ -4,7 +4,7 @@ Google Sheets Link : [Arc Raiders Item Tracker](https://docs.google.com/spreadsh
 
 Creator : ArcScience13
 
-Date Last Updated : 12/02/2025
+Date Last Updated : 12/04/2025
 
 
 Game : [Arc Raiders](https://store.steampowered.com/app/1808500/ARC_Raiders/)
