@@ -33,15 +33,15 @@ Hey Raiders! In this repository, we will used publicly sourced data to dive deep
 - Item
   - type or select the item you wish to track from the dropdown
 - Item Rarity
-  - select the item rarity from the dropdown
+  - auto fills the rarity for selected item
 - Item Type
-  - select the item type from the dropdown
+  - sauto fills the item type for selected item
 - Map
   - select which map ypu found this item on
 - Container Type
-  - select what container type the item was found in
+  - type or select what container type the item was found in from the dropdown
 - Map Condition
-  - select what map condition was active during the raid, day included
+  - type or select what map condition was active during the raid, day included from the dropdown
 - # Of Container Checks
   - how many times you checked that specific container to get the tracked item
 
