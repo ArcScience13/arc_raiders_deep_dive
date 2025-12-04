@@ -28,6 +28,23 @@ Game : [Arc Raiders](https://store.steampowered.com/app/1808500/ARC_Raiders/)
 
 Hey Raiders! In this repository, we will used publicly sourced data to dive deep into the interworkings of [Arc Raiders](https://store.steampowered.com/app/1808500/ARC_Raiders/) to get a better understanding of spawn rates for items based on maps, map condition and container type. This will hopefully alleviate some of the speculation regarding loot. I am aware of some similar undertakings by large youtube channels. Actually, those videos are what inspired me! Hopefully we can come together to add as much data as we can to a singular place, allowing any creator or fan of Arc Raiders to dive into the data themselves. As of right now, I will generate a single report based on the data from the community, however if this takes off, I would love to do more regular updates, maybe even weekly if theres enough activity!  
 
+## Google Sheets Use Breakdown
+
+- Item
+  - type or select the item you wish to track from the dropdown
+- Item Rarity
+  - select the item rarity from the dropdown
+- Item Type
+  - select the item type from the dropdown
+- Map
+  - select which map ypu found this item on
+- Container Type
+  - select what container type the item was found in
+- Map Condition
+  - select what map condition was active during the raid, day included
+- # Of Container Checks
+  - how many times you checked that specific container to get the tracked item
+
 # Data TLDR
 
 Here is where some analytics will be displayed once enough is sourced! See you topside raider!
