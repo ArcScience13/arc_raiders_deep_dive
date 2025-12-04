@@ -42,7 +42,7 @@ Hey Raiders! In this repository, we will used publicly sourced data to dive deep
   - type or select what container type the item was found in from the dropdown
 - Map Condition
   - type or select what map condition was active during the raid, day included from the dropdown
-- # Of Container Checks
+- Number Of Container Checks
   - how many times you checked that specific container to get the tracked item
 
 # Data TLDR
