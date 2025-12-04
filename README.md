@@ -35,9 +35,9 @@ Hey Raiders! In this repository, we will used publicly sourced data to dive deep
 - Item Rarity
   - auto fills the rarity for selected item
 - Item Type
-  - sauto fills the item type for selected item
+  - auto fills the item type for selected item
 - Map
-  - select which map ypu found this item on
+  - type or select which map ypu found this item on from the dropdown
 - Container Type
   - type or select what container type the item was found in from the dropdown
 - Map Condition
