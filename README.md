@@ -10,9 +10,9 @@ Date Last Updated : 12/02/2025
 Game : [Arc Raiders](https://store.steampowered.com/app/1808500/ARC_Raiders/)
 ## Data Sources and Tools Used
 - [Arc Raiders Fandom](https://arc-raiders.fandom.com/wiki/Arc_Raiders_Wiki)
-  - all the data was scrapped from this site
+  - all the data was scraped from this site
 - [Octoparse 8](https://www.octoparse.com/download?campaignid=21878410275&adgroupid=&keyword=&gad_source=1&gad_campaignid=22901936798&gbraid=0AAAAAoOLR78URCNV3w23LxOTXaCntbx4u&gclid=Cj0KCQiAubrJBhCbARIsAHIdxD-6JZzIabHsIBH-HPuFL5_fZ_RMDsCwQwUKDOfqsjhXeoIJIkbviykaAnaHEALw_wcB)
-  - this is the free web scrapper I used
+  - this is the free web scraper I used
 - [Google Sheets](https://workspace.google.com/products/sheets/)
   - where the data is collected
 - [Github](https://github.com/)
